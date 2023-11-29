@@ -60,3 +60,16 @@ body {
    font-size: 20px;
    background: green;
  }
+
+ footer {
+   background: none;
+   text-align: center;
+   padding: 20px 0;
+ }
+ 
+ footer p {
+   margin: 0;
+   font-size: 14px;
+   color: #fff;
+ }
+ 
